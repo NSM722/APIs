@@ -1,2 +1,3 @@
-Page of random users including their names and flags - (Random Users API)
-and a Rock, paper & scissors game
+## Random Users API
+1. Page of random users including their names and flags
+2. Rock, paper & scissors game
